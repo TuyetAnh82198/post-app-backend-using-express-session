@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "tuyetanh14102023",
+    "MONGO_PASS": "PDqQAHKRoaGJfjSk",
+    "CLIENT_APP": "http://localhost:3000",
+    "SESSION_SECRET": "mysecret"
+  }
+}
