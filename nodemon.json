@@ -3,7 +3,6 @@
     "MONGO_USER": "tuyetanh14102023",
     "MONGO_PASS": "PDqQAHKRoaGJfjSk",
     "CLIENT_APP": "https://post-app-frontend-express-session.onrender.com",
-    "CLIENT_APP2":"https://post-app-express-session.onrender.com",
     "SESSION_SECRET": "mysecret"
   }
 }
